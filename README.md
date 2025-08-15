@@ -8,7 +8,7 @@
   
 - Name: **Misono Mika** (You can call me Chino or Airi)
 
-- Full Stack Developer **4+ years** experience.
+- A student from Viet Nam :3
 
 - Good with **Javascript**, **Typescript**, **C++**, **CSS**, **HTML** and **Python**.
 
